@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+models/*
+!models/.gitkeep
+reports/*
+!.gitkeep
+.mlflow/
+.ipynb_checkpoints/
+data/cifar-10-*
+*.tar.gz
+data/external/

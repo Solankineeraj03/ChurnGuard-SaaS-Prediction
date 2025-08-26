@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pandas
+numpy
+scikit-learn
+xgboost
+shap
+joblib
+prometheus-client
+pydantic
+python-dotenv
+mlflow
+evidently
+matplotlib
+pytest
+flake8
